@@ -10,3 +10,4 @@
 
 
 Ссылка на наш гугл коллаб где всё это писалось: https://colab.research.google.com/drive/1cJFJ_y-nB4fwD88Wgzkityqej0tl6OGl?usp=sharing
+Для вас работали, старались: Садекова Алиса, Швецова Мария, Лапина Анна из группы Б06-906
